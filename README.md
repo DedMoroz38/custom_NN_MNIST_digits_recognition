@@ -86,4 +86,4 @@ In my case, I achieved **91%** accuracy!
 
 For this project, I have opted to keep the implementation straightforward without these optimizations. However, I plan to incorporate them in future projects.
 
-Next, I plan to develop a **plane vs bird classification NN**! Once it's completed, I will drop link here: <...>
+Next, I plan to develop a **drone vs bird classification NN**! Once it's completed, I will drop link here: [drone vs bird classification](https://github.com/DedMoroz38/BirdVsDroneClassificationNN)
